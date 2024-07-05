@@ -23,6 +23,7 @@ public class App {
 
         double SI = b.simpleIntrestClc(bankName, amount, time);
         System.out.println(SI);
+        main(args);
 
         sc.close();
 
